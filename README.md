@@ -2,8 +2,6 @@
 
 This repository hosts a straightforward RESTful API designed for managing student information, developed using the Spring Boot framework in Java. 
 
-(https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=LETSLEARNNOW)
-
 ## Features
 
 - **Get All Students**: Retrieve a comprehensive list of all registered students.
